@@ -1,1 +1,1 @@
-#shool task for css desing
+shool task for css desing
